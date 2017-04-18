@@ -1,1 +1,1 @@
-# wwcodekl-python102-simpletodo
+Simple todo list using Python 3
